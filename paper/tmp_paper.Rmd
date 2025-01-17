@@ -367,20 +367,21 @@ cor_result <- cor.test(summary_bfi_fig$Extraversion,summary_bfi_fig$Neuroticism)
 
 []内にタイトル，()内にファイル名を指定すれば，自動的に図番号を打ってくれます。-->
 
-![](table3.png){out.width="120%"}
+![](figure/table3.png){out.width="120%"}
+
 
 
 \setcounter{figure}{1} 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 10cm]{SS-PPFI.png}
+\includegraphics[clip,width = 10cm]{figure/SS-PPFI.png}
 \caption{PPFI-Jと主観的パフォーマンス測定指標(SS)の質問項目のネットワーク}
 \end{figure}
 
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 9cm]{ss-ppfi_B.png}
+\includegraphics[clip,width = 9cm]{figure/ss-ppfi_B.png}
 \caption{PPFI-Jと主観的パフォーマンス測定指標(SS)の質問項目のブリッジ中心性指標}
 \end{figure}
 
@@ -392,7 +393,7 @@ cor_result <- cor.test(summary_bfi_fig$Extraversion,summary_bfi_fig$Neuroticism)
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 8cm]{Figure4.png}
+\includegraphics[clip,width = 8cm]{figure/Figure4.png}
 \caption{PPFI-J得点の分布}
 \end{figure}
 
@@ -406,27 +407,27 @@ cor_result <- cor.test(summary_bfi_fig$Extraversion,summary_bfi_fig$Neuroticism)
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 10cm]{High_PPFI_J_Network.png}
+\includegraphics[clip,width = 10cm]{figure/High_PPFI_J_Network.png}
 \caption{高いPPFI得点群における主観的パフォーマンス測定指標(SS)とPANASの心理ネットワーク分析}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 9cm]{High_B.png}
+\includegraphics[clip,width = 9cm]{figure/High_B.png}
 \caption{高いPPFI得点群における主観的パフォーマンス測定指標とPANASの心理ネットワークのブリッジ中心性指標}
 \end{figure}
 
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 11cm]{Low_PPFI_J_Network.png}
+\includegraphics[clip,width = 11cm]{figure/Low_PPFI_J_Network.png}
 \caption{低いPPFI得点群における主観的パフォーマンス測定指標(SS)とPANASの心理ネットワーク分析}
 \end{figure}
 
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 9cm]{Low_B.png}
+\includegraphics[clip,width = 9cm]{figure/Low_B.png}
 \caption{低いPPFI得点群における主観的パフォーマンス測定指標とPANASの心理ネットワークのブリッジ中心性指標}
 \end{figure}
 
@@ -438,17 +439,17 @@ cor_result <- cor.test(summary_bfi_fig$Extraversion,summary_bfi_fig$Neuroticism)
 　
 　
 
-![](table4.png){out.width="160%"}
+![](figure/table4.png)
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 10cm]{individual network.png}
+\includegraphics[clip,width = 10cm]{figure/individual network.png}
 \caption{個人競技における主観的パフォーマンス測定指標(SS)とPPFI-Jの心理ネットワーク分析}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-\includegraphics[clip,width = 9cm]{individual_bridge.png}
+\includegraphics[clip,width = 9cm]{figure/individual_bridge.png}
 \caption{個人競技における主観的パフォーマンス測定指標(SS)とPPFI-Jの心理ネットワークのブリッジ中心性指標}
 \end{figure}
 
@@ -457,7 +458,7 @@ cor_result <- cor.test(summary_bfi_fig$Extraversion,summary_bfi_fig$Neuroticism)
 　団体競技における主観的パフォーマンス測定尺度の下位尺度とPPFI-Jの下位尺度の相関分析(Table5)では，主観的パフォーマンス測定指標内の各下位尺度間で全て有意な正の相関が見られた ($\mathit{p}$ < .001)。一方，PPFI-Jの下位尺度内では，回避と管理の間に有意な負の相関が見られた ($\mathit{r}$ = -0.217, $\mathit{p}$ = 0.020)。受容と管理の間には有意な正の相関が見られた ($\mathit{r}$ = 0.328, $\mathit{p}$ < .001)。PPFI-Jと主観的パフォーマンス測定指標の関係については，回避と目的達成が負の相関 ($\mathit{r}$ = -0.209, $\mathit{p}$ = 0.025)，回避と実践的技術が負の相関 ($\mathit{r}$ = -0.39, $\mathit{p}$ < .001) を示し，個人競技と同じく回避と主観的パフォーマンス測定指標のいくつかの下位尺度の間に負の関係があることが示された。受容と管理の間には主観的パフォーマンス測定指標の下位尺度との間に有意な相関は確認されなかった (p > .05)。  
 　加えて，より詳細な関係性について検討するために項目レベルでのネットワーク分析を行った(Figure10)。その結果回避(PPFI1～5)は，PPFIのその他の項目や主観的パフォーマンス測定指標と負の関係を示したところが多く，特にPPFI4(私は自分の考えや感情に巻き込まれてしまい，この目標を追いかけることができなくなる。)はSS7(試合中感情をコントロールして良いプレーを維持している)，SS12(部活動の成績の向上に貢献している)と負の関係を示した。また，PPFI5(私は，くじけた気持ちになったら，この目標を追いかけることから後ずさりする。)もSS4(試合で勝つことに貢献している)，SS6(プレーがうまくいくためのイメージを描いて実行している)と負の関係を示した。ブリッジ中心性指標(Strength)でも，PPFI4，PPFI5は高い数値であった。次いでブリッジ中心性指標(Strength)の数値が高かったPPFI1はSS1(プレーがうまくいくためのイメージを描いて実行している)，SS5と負の関係を示した(Figure11)。その他，PPFIの受容，管理の項目と主観的パフォーマンス測定指標の関係は少なかった。ただし，PPFI11(この目標に関して障壁にぶつかったとき，そこでの苛立ちが自分を振り立たせる。)とSS2(試合で高い実績を残している)，SS8(身体的なコンディションが整っている)で正の関係を示した。
 
-![](table5.png){out.width="160%"}
+![](table5.png)
 
 
 \begin{figure}[H]

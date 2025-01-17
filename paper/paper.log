@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.3)  7 JAN 2025 03:36
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.15)  15 JAN 2025 03:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **paper.tex
 (./paper.tex
 LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-09>
+L3 programming layer <2024-12-25>
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/bxjscls/bxjsarticle.cls
 Document Class: bxjsarticle 2024/07/19 v2.9c BXJS document classes
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/tools/calc.sty
@@ -83,7 +83,7 @@ Package: zxjatype 2020/01/22 v0.7 ZX Japanese typeset
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 ) (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-12-09 L3 programming layer (loader) 
+Package: expl3 2024-12-25 L3 programming layer (loader) 
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \g__graphics_track_int=\count273
@@ -646,7 +646,7 @@ Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
 \c@mn@abspage=\count353
 ) (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box80
 \beforetitleunit=\skip82
 \aftertitleunit=\skip83
@@ -1123,39 +1123,39 @@ LaTeX Font Info:    Font shape `TU/HaranoAjiMincho-Regular.otf(0)/b/n' will be
 [20
 
 ]
-File: table3.png Graphic file (type bmp)
-<table3.png>
-File: SS-PPFI.png Graphic file (type bmp)
-<SS-PPFI.png>
+File: figure/table3.png Graphic file (type bmp)
+<figure/table3.png>
+File: figure/SS-PPFI.png Graphic file (type bmp)
+<figure/SS-PPFI.png>
 
 
 [21]
 
 [22]
-File: ss-ppfi_B.png Graphic file (type bmp)
-<ss-ppfi_B.png>
+File: figure/ss-ppfi_B.png Graphic file (type bmp)
+<figure/ss-ppfi_B.png>
 
 
 [23]
-File: Figure4.png Graphic file (type bmp)
-<Figure4.png>
+File: figure/Figure4.png Graphic file (type bmp)
+<figure/Figure4.png>
 
 
 [24]
 
 [25]
-File: High_PPFI_J_Network.png Graphic file (type bmp)
-<High_PPFI_J_Network.png>
+File: figure/High_PPFI_J_Network.png Graphic file (type bmp)
+<figure/High_PPFI_J_Network.png>
 
 
 [26]
-File: High_B.png Graphic file (type bmp)
-<High_B.png>
+File: figure/High_B.png Graphic file (type bmp)
+<figure/High_B.png>
 
 
 [27]
-File: Low_PPFI_J_Network.png Graphic file (type bmp)
-<Low_PPFI_J_Network.png>
+File: figure/Low_PPFI_J_Network.png Graphic file (type bmp)
+<figure/Low_PPFI_J_Network.png>
 
 Overfull \hbox (14.23102pt too wide) in paragraph at lines 467--468
  [][] 
@@ -1164,8 +1164,8 @@ Overfull \hbox (14.23102pt too wide) in paragraph at lines 467--468
 
 
 [28]
-File: Low_B.png Graphic file (type bmp)
-<Low_B.png>
+File: figure/Low_B.png Graphic file (type bmp)
+<figure/Low_B.png>
 
 
 [29]
@@ -1173,15 +1173,15 @@ File: Low_B.png Graphic file (type bmp)
 [30]
 
 [31]
-File: table4.png Graphic file (type bmp)
-<table4.png>
-File: individual network.png Graphic file (type bmp)
-<individual network.png>
+File: figure/table4.png Graphic file (type bmp)
+<figure/table4.png>
+File: figure/individual network.png Graphic file (type bmp)
+<figure/individual network.png>
 
 
 [32]
-File: individual_bridge.png Graphic file (type bmp)
-<individual_bridge.png>
+File: figure/individual_bridge.png Graphic file (type bmp)
+<figure/individual_bridge.png>
 
 
 [33]
@@ -1429,11 +1429,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22199 strings out of 475888
- 435220 string characters out of 5774786
- 980132 words of memory out of 5000000
- 44728 multiletter control sequences out of 15000+600000
- 565280 words of font info for 104 fonts, out of 8000000 for 9000
+ 22200 strings out of 475852
+ 435843 string characters out of 5773843
+ 980930 words of memory out of 5000000
+ 44764 multiletter control sequences out of 15000+600000
+ 566048 words of font info for 104 fonts, out of 8000000 for 9000
  19 hyphenation exceptions out of 8191
  109i,9n,142p,748b,425s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
