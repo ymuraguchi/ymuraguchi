@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.15)  15 JAN 2025 03:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.15)  28 JAN 2025 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1062,7 +1062,7 @@ Package marginnote Info: Using workaround for absolute page number on input line
 File: ACT2.png Graphic file (type bmp)
 <ACT2.png>
 
-Overfull \hbox (9.2489pt too wide) in paragraph at lines 178--185
+Overfull \hbox (9.2489pt too wide) in paragraph at lines 178--187
 []  \TU/HaranoAjiMincho-Regular.otf(0)/m/n/10 　[] 
  []
 
@@ -1094,10 +1094,9 @@ Overfull \hbox (9.2489pt too wide) in paragraph at lines 178--185
 
 [14]
 LaTeX Font Info:    Font shape `TU/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 306.
-
-LaTeX Warning: Float too large for page by 63.42406pt on input line 342.
-
+(Font)              scaled to size 8.32242pt on input line 313.
+LaTeX Font Info:    Font shape `TU/HaranoAjiMincho-Regular.otf(0)/m/n' will be
+(Font)              scaled to size 6.47299pt on input line 318.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -1109,7 +1108,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [16]
 LaTeX Font Info:    Font shape `TU/HaranoAjiMincho-Regular.otf(0)/b/n' will be
-(Font)              scaled to size 9.24713pt on input line 352.
+(Font)              scaled to size 9.24713pt on input line 358.
 
 
 [17
@@ -1157,7 +1156,7 @@ File: figure/High_B.png Graphic file (type bmp)
 File: figure/Low_PPFI_J_Network.png Graphic file (type bmp)
 <figure/Low_PPFI_J_Network.png>
 
-Overfull \hbox (14.23102pt too wide) in paragraph at lines 467--468
+Overfull \hbox (14.23102pt too wide) in paragraph at lines 473--474
  [][] 
  []
 
@@ -1239,17 +1238,17 @@ File: team bridge.png Graphic file (type bmp)
 [53
 
 ]
-Underfull \hbox (badness 2057) in paragraph at lines 665--669
+Underfull \hbox (badness 2057) in paragraph at lines 671--675
  []\TU/lmr/m/n/10 Epskamp, S. , Borsboom, D. & Fried, E. I. (2018). Esti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 665--669
+Underfull \hbox (badness 10000) in paragraph at lines 671--675
  \TU/lmr/m/n/10 mating psychological networks and their accuracy: A
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 665--669
+Underfull \hbox (badness 5374) in paragraph at lines 671--675
  \TU/lmr/m/n/10 tutorial paper, \TU/lmr/m/it/10 Behavior Research Methods\TU/lmr/m/n/10 , \TU/lmr/m/it/10 50\TU/lmr/m/n/10 (1), 195-
  []
 
@@ -1258,6 +1257,16 @@ Underfull \hbox (badness 5374) in paragraph at lines 665--669
 [54]
 
 [55]
+Underfull \hbox (badness 1168) in paragraph at lines 726--731
+ \TU/lmr/m/n/10 tance and commitment therapy as a model of mindfulness
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 726--731
+ \TU/lmr/m/n/10 ibility, \TU/lmr/m/it/10 Journal of Contextual Behavioral Science\TU/lmr/m/n/10 , \TU/lmr/m/it/10 1\TU/lmr/m/n/10 (1-2),
+ []
+
+
 
 [56]
 
@@ -1269,8 +1278,8 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 
 
 [57]
-Underfull \hbox (badness 10000) in paragraph at lines 787--792
- [] [] [][][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][] [] [][][][]$[]
+Underfull \hbox (badness 10000) in paragraph at lines 801--806
+ [] [] [][][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][] [] [][][][]$[]\TU/lmr/m/n/10 }
  []
 
 
@@ -1278,146 +1287,148 @@ Underfull \hbox (badness 10000) in paragraph at lines 787--792
 [58]
 
 [59]
-Underfull \hbox (badness 2111) in paragraph at lines 844--848
+Underfull \hbox (badness 2111) in paragraph at lines 862--866
  \TU/lmr/m/n/10 lan, M. , Roose, D. …Waring, S. (2019). Welcome to
  []
 
 
-Underfull \hbox (badness 4441) in paragraph at lines 844--848
+Underfull \hbox (badness 4441) in paragraph at lines 862--866
  \TU/lmr/m/n/10 the tidyverse, \TU/lmr/m/it/10 Journal of Open Source Software\TU/lmr/m/n/10 , \TU/lmr/m/it/10 4\TU/lmr/m/n/10 (43),
  []
 
 
 
 [60]
-Overfull \hbox (49.28717pt too wide) in paragraph at lines 862--866
+Overfull \hbox (49.28717pt too wide) in paragraph at lines 880--884
  \TU/lmr/m/it/10 rology and Psychology\TU/lmr/m/n/10 , \TU/lmr/m/it/10 18\TU/lmr/m/n/10 (5), 459-482.https://doi.org/10.1002/cne.920180503 
  []
 
 
 
 [61]
+
+[62]
 File: question/sq.png Graphic file (type bmp)
 <question/sq.png>
 
-Overfull \hbox (14.23453pt too wide) in paragraph at lines 893--894
+Overfull \hbox (14.23453pt too wide) in paragraph at lines 919--920
  [][] 
  []
 
 
 
-[62
+[63
 
 ]
 File: question/pq.png Graphic file (type bmp)
 <question/pq.png>
 
-Overfull \hbox (14.23581pt too wide) in paragraph at lines 899--900
- [][] 
- []
-
-
-
-[63]
-File: question/ppfiq.png Graphic file (type bmp)
-<question/ppfiq.png>
-
-Overfull \hbox (14.22917pt too wide) in paragraph at lines 905--906
+Overfull \hbox (14.23581pt too wide) in paragraph at lines 925--926
  [][] 
  []
 
 
 
 [64]
+File: question/ppfiq.png Graphic file (type bmp)
+<question/ppfiq.png>
+
+Overfull \hbox (14.22917pt too wide) in paragraph at lines 931--932
+ [][] 
+ []
+
+
 
 [65]
 
+[66]
+
 LaTeX Font Warning: Font shape `TU/HaranoAjiMincho-Regular.otf(0)/m/it' undefined
-(Font)              using `TU/HaranoAjiMincho-Regular.otf(0)/m/n' instead on input line 916.
+(Font)              using `TU/HaranoAjiMincho-Regular.otf(0)/m/n' instead on input line 942.
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 918.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 944.
 
-Underfull \vbox (badness 2717) detected at line 963
+Underfull \vbox (badness 2717) detected at line 989
  []
 
 
 
-[66
+[67
 
 ]
 
-[67]
-Underfull \vbox (badness 10000) detected at line 1069
+[68]
+Underfull \vbox (badness 10000) detected at line 1095
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1069
+Underfull \vbox (badness 10000) detected at line 1095
  []
 
 
 
-[68
+[69
 
 ]
-Underfull \vbox (badness 10000) detected at line 1069
+Underfull \vbox (badness 10000) detected at line 1095
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1069
- []
-
-
-
-[69]
-Underfull \vbox (badness 10000) detected at line 1069
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1069
+Underfull \vbox (badness 10000) detected at line 1095
  []
 
 
 
 [70]
-Underfull \vbox (badness 10000) detected at line 1069
+Underfull \vbox (badness 10000) detected at line 1095
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1069
+Underfull \vbox (badness 10000) detected at line 1095
  []
 
 
 
 [71]
+Underfull \vbox (badness 10000) detected at line 1095
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1095
+ []
+
+
 
 [72]
-Underfull \vbox (badness 10000) detected at line 1142
+
+[73]
+Underfull \vbox (badness 10000) detected at line 1168
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1142
+Underfull \vbox (badness 10000) detected at line 1168
  []
 
 
 
-[73
+[74
 
 ]
-Underfull \vbox (badness 10000) detected at line 1142
+Underfull \vbox (badness 10000) detected at line 1168
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1142
+Underfull \vbox (badness 10000) detected at line 1168
  []
 
 
-
-[74]
 
 [75]
 
-[76
+[76]
+
+[77
 
 ] (./paper.aux)
  ***********
@@ -1429,12 +1440,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22200 strings out of 475852
- 435843 string characters out of 5773843
- 980930 words of memory out of 5000000
- 44764 multiletter control sequences out of 15000+600000
- 566048 words of font info for 104 fonts, out of 8000000 for 9000
+ 22218 strings out of 475852
+ 437047 string characters out of 5773843
+ 985930 words of memory out of 5000000
+ 44779 multiletter control sequences out of 15000+600000
+ 566064 words of font info for 106 fonts, out of 8000000 for 9000
  19 hyphenation exceptions out of 8191
- 109i,9n,142p,748b,425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,9n,142p,860b,425s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on paper.pdf (79 pages).
+Output written on paper.pdf (80 pages).
