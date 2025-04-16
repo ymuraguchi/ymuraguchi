@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.15)  28 JAN 2025 15:18
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.7)  7 FEB 2025 01:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **paper.tex
 (./paper.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/bxjscls/bxjsarticle.cls
 Document Class: bxjsarticle 2024/07/19 v2.9c BXJS document classes
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/tools/calc.sty
@@ -83,7 +83,7 @@ Package: zxjatype 2020/01/22 v0.7 ZX Japanese typeset
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 ) (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-12-25 L3 programming layer (loader) 
+Package: expl3 2025-01-18 L3 programming layer (loader) 
 (/home/rstudio/ymuraguchi/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \g__graphics_track_int=\count273
@@ -1186,17 +1186,17 @@ File: figure/individual_bridge.png Graphic file (type bmp)
 [33]
 
 [34]
-File: table5.png Graphic file (type bmp)
-<table5.png>
-File: team network.png Graphic file (type bmp)
-<team network.png>
+File: figure/table5.png Graphic file (type bmp)
+<figure/table5.png>
+File: figure/team network.png Graphic file (type bmp)
+<figure/team network.png>
 
 
 [35]
 
 [36]
-File: team bridge.png Graphic file (type bmp)
-<team bridge.png>
+File: figure/team bridge.png Graphic file (type bmp)
+<figure/team bridge.png>
 
 
 [37]
@@ -1235,40 +1235,42 @@ File: team bridge.png Graphic file (type bmp)
 
 [52]
 
-[53
+[53]
+
+[54
 
 ]
-Underfull \hbox (badness 2057) in paragraph at lines 671--675
+Underfull \hbox (badness 2057) in paragraph at lines 672--676
  []\TU/lmr/m/n/10 Epskamp, S. , Borsboom, D. & Fried, E. I. (2018). Esti-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 671--675
+Underfull \hbox (badness 10000) in paragraph at lines 672--676
  \TU/lmr/m/n/10 mating psychological networks and their accuracy: A
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 671--675
+Underfull \hbox (badness 5374) in paragraph at lines 672--676
  \TU/lmr/m/n/10 tutorial paper, \TU/lmr/m/it/10 Behavior Research Methods\TU/lmr/m/n/10 , \TU/lmr/m/it/10 50\TU/lmr/m/n/10 (1), 195-
  []
 
 
 
-[54]
-
 [55]
-Underfull \hbox (badness 1168) in paragraph at lines 726--731
+
+[56]
+Underfull \hbox (badness 1168) in paragraph at lines 727--732
  \TU/lmr/m/n/10 tance and commitment therapy as a model of mindfulness
  []
 
 
-Underfull \hbox (badness 3646) in paragraph at lines 726--731
+Underfull \hbox (badness 3646) in paragraph at lines 727--732
  \TU/lmr/m/n/10 ibility, \TU/lmr/m/it/10 Journal of Contextual Behavioral Science\TU/lmr/m/n/10 , \TU/lmr/m/it/10 1\TU/lmr/m/n/10 (1-2),
  []
 
 
 
-[56]
+[57]
 
 Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 (xeCJK)                
@@ -1277,162 +1279,162 @@ Package xeCJK Warning: Unknown CJK family `\CJKttdefault' is being ignored.
 
 
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 801--806
+[58]
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 810--815
  [] [] [][][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][] [] [][][][]$[]\TU/lmr/m/n/10 }
  []
 
 
 
-[58]
+[60]
 
-[59]
-Underfull \hbox (badness 2111) in paragraph at lines 862--866
+[61]
+Underfull \hbox (badness 2111) in paragraph at lines 871--875
  \TU/lmr/m/n/10 lan, M. , Roose, D. …Waring, S. (2019). Welcome to
  []
 
 
-Underfull \hbox (badness 4441) in paragraph at lines 862--866
+Underfull \hbox (badness 4441) in paragraph at lines 871--875
  \TU/lmr/m/n/10 the tidyverse, \TU/lmr/m/it/10 Journal of Open Source Software\TU/lmr/m/n/10 , \TU/lmr/m/it/10 4\TU/lmr/m/n/10 (43),
  []
 
 
-
-[60]
-Overfull \hbox (49.28717pt too wide) in paragraph at lines 880--884
+Overfull \hbox (49.28717pt too wide) in paragraph at lines 889--893
  \TU/lmr/m/it/10 rology and Psychology\TU/lmr/m/n/10 , \TU/lmr/m/it/10 18\TU/lmr/m/n/10 (5), 459-482.https://doi.org/10.1002/cne.920180503 
  []
 
 
 
-[61]
-
 [62]
+
+[63]
 File: question/sq.png Graphic file (type bmp)
 <question/sq.png>
 
-Overfull \hbox (14.23453pt too wide) in paragraph at lines 919--920
+Overfull \hbox (14.23453pt too wide) in paragraph at lines 920--921
  [][] 
  []
 
 
 
-[63
+[64
 
 ]
 File: question/pq.png Graphic file (type bmp)
 <question/pq.png>
 
-Overfull \hbox (14.23581pt too wide) in paragraph at lines 925--926
- [][] 
- []
-
-
-
-[64]
-File: question/ppfiq.png Graphic file (type bmp)
-<question/ppfiq.png>
-
-Overfull \hbox (14.22917pt too wide) in paragraph at lines 931--932
+Overfull \hbox (14.23581pt too wide) in paragraph at lines 926--927
  [][] 
  []
 
 
 
 [65]
+File: question/ppfiq.png Graphic file (type bmp)
+<question/ppfiq.png>
+
+Overfull \hbox (14.22917pt too wide) in paragraph at lines 932--933
+ [][] 
+ []
+
+
 
 [66]
 
+[67]
+
 LaTeX Font Warning: Font shape `TU/HaranoAjiMincho-Regular.otf(0)/m/it' undefined
-(Font)              using `TU/HaranoAjiMincho-Regular.otf(0)/m/n' instead on input line 942.
+(Font)              using `TU/HaranoAjiMincho-Regular.otf(0)/m/n' instead on input line 943.
 
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 944.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 945.
 
-Underfull \vbox (badness 2717) detected at line 989
+Underfull \vbox (badness 2717) detected at line 990
  []
 
 
 
-[67
+[68
 
 ]
 
-[68]
-Underfull \vbox (badness 10000) detected at line 1095
+[69]
+Underfull \vbox (badness 10000) detected at line 1096
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1095
+Underfull \vbox (badness 10000) detected at line 1096
  []
 
 
 
-[69
+[70
 
 ]
-Underfull \vbox (badness 10000) detected at line 1095
+Underfull \vbox (badness 10000) detected at line 1096
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1095
- []
-
-
-
-[70]
-Underfull \vbox (badness 10000) detected at line 1095
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1095
+Underfull \vbox (badness 10000) detected at line 1096
  []
 
 
 
 [71]
-Underfull \vbox (badness 10000) detected at line 1095
+Underfull \vbox (badness 10000) detected at line 1096
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1095
+Underfull \vbox (badness 10000) detected at line 1096
  []
 
 
 
 [72]
+Underfull \vbox (badness 10000) detected at line 1096
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1096
+ []
+
+
 
 [73]
-Underfull \vbox (badness 10000) detected at line 1168
+
+[74]
+Underfull \vbox (badness 10000) detected at line 1169
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1168
+Underfull \vbox (badness 10000) detected at line 1169
  []
 
 
 
-[74
+[75
 
 ]
-Underfull \vbox (badness 10000) detected at line 1168
+Underfull \vbox (badness 10000) detected at line 1169
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1168
+Underfull \vbox (badness 10000) detected at line 1169
  []
 
 
-
-[75]
 
 [76]
 
-[77
+[77]
+
+[78
 
 ] (./paper.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
+LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
  ***********
 
@@ -1440,12 +1442,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22218 strings out of 475852
- 437047 string characters out of 5773843
- 985930 words of memory out of 5000000
- 44779 multiletter control sequences out of 15000+600000
+ 22218 strings out of 475846
+ 437215 string characters out of 5773682
+ 986134 words of memory out of 5000000
+ 44785 multiletter control sequences out of 15000+600000
  566064 words of font info for 106 fonts, out of 8000000 for 9000
  19 hyphenation exceptions out of 8191
- 109i,9n,142p,860b,425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,9n,133p,860b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on paper.pdf (80 pages).
+Output written on paper.pdf (81 pages).
